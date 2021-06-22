@@ -4,6 +4,13 @@ The simplified version of [this](https://github.com/NVIDIA/pix2pixHD/) code for 
 
 ![Example](./image.jpg)
 
+# How to use this repo?
+1. Download sources from github: `git clone https://github.com/Hramchenko/simplified_pix2pixHD.git`
+2. Open [simplified_pix2pixHD.ipynb](./pix2pixHD.ipynb) in Jupyter.
+3. Download images to `data` folder.
+4. Modify the `Dataset` class, the `generator` and the `discriminator` as you need.
+5. Run Jupyter cells for training.
+
 # Requirements
 1. pytorch
 2. opencv-python
