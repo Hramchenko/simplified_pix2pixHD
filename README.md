@@ -1,6 +1,6 @@
 # Simplified pix2pixHD version(Unofficial)
 
-The simplified version of [this](https://github.com/NVIDIA/pix2pixHD) repo for quick prototyping.
+The simplified version of [this](https://github.com/NVIDIA/pix2pixHD/) repo for quick prototyping.
 
 ![Example](./image.jpg)
 
