@@ -1,6 +1,6 @@
 # Simplified pix2pixHD repo(Unofficial)
 
-The simplified version of [this](https://github.com/NVIDIA/pix2pixHD/) code for quick prototyping.
+The simplified version of [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://github.com/NVIDIA/pix2pixHD/) code for quick prototyping and experiments.
 
 ![Example](./image.jpg)
 
@@ -16,3 +16,4 @@ The simplified version of [this](https://github.com/NVIDIA/pix2pixHD/) code for 
 2. opencv-python
 3. numpy
 4. matplotlib
+5. tqdm
